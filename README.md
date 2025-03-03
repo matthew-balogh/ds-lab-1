@@ -4,4 +4,6 @@ Repository for the Data Science Laboratory I., researching _Anomaly Detection_ w
 
 ### Associated Resources
 
-Spreadsheet: [View](https://docs.google.com/spreadsheets/d/1rDKdwMOLKnQuayU_AnBupcPnm2wv6lOy5tRuI6GTpLc/edit?usp=sharing)
+Paper spreadsheet: [View](https://docs.google.com/spreadsheets/d/1rDKdwMOLKnQuayU_AnBupcPnm2wv6lOy5tRuI6GTpLc/edit?usp=sharing)
+
+Paper summary report: [View](https://www.overleaf.com/read/qstfhmxkmhqg#9c3749)
