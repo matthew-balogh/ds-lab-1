@@ -9,3 +9,10 @@ listing resources such as research papers, online sources and tools related to S
 
 [Summary report](https://www.overleaf.com/read/qstfhmxkmhqg#9c3749)
 of selected research papers with their key parts highlighted. Concepts that call for deeper investigation are also identified.
+
+### Additional Resources of Mine
+
+These resources are related to ideas of mine, mainly associated with the movie _Minority Report_ to understand how Anomaly detection unfolds in real or a futuristic life scenario and to pinpoint its opportunities and vulnerabilities. The movie sets a context that allows me to discover new ideas regarding to the research of SOM or Anomaly detection in general. These resources may or may not be incorporated into the lab activities and/or my thesis.
+
+* ["Analysis of the Minority Report Phenomenon from an Anomaly Detection Viewpoint"](): Analysis and comparison
+* A different [Hypothesis](): _In the movie, overlooked anomalies resurface through echoes. Could we adopt a similar approach by storing potential but uncertain noise for later evaluation? In other words, could echoes be leveraged to improve anomaly detection?_
